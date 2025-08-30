@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Appelboom52/todo-app.git/static/css/main.034a957c.css",
+    "main.js": "/Appelboom52/todo-app.git/static/js/main.72596d61.js",
+    "static/js/453.344536af.chunk.js": "/Appelboom52/todo-app.git/static/js/453.344536af.chunk.js",
+    "index.html": "/Appelboom52/todo-app.git/index.html",
+    "main.034a957c.css.map": "/Appelboom52/todo-app.git/static/css/main.034a957c.css.map",
+    "main.72596d61.js.map": "/Appelboom52/todo-app.git/static/js/main.72596d61.js.map",
+    "453.344536af.chunk.js.map": "/Appelboom52/todo-app.git/static/js/453.344536af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034a957c.css",
+    "static/js/main.72596d61.js"
+  ]
+}
