@@ -1,25 +1,14 @@
-# 📝 ToDo App
+# 📝 Todo App
 
-A simple and elegant **ToDo application** built with **React + TypeScript**.  
-You can add, complete, filter, and clear tasks — a perfect minimal app to stay organized.
+A simple and user-friendly task management application built with **React** and **TypeScript**.  
+This project is developed for practice and to showcase frontend development skills.
 
-## 🚀 Features
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- 🔍 Filter tasks (All / Active / Completed)  
-- 🗑️ Clear completed tasks  
-- 🔢 Task counter  
+## 🚀 Demo
+👉 [Live Demo on GitHub Pages](https://Appelboom52.github.io/todo-app/)
 
-## 🛠️ Tech Stack
-- [React](https://reactjs.org/)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Create React App](https://create-react-app.dev/)  
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) (unit tests)  
+## 🔧 Installation and Local Setup
 
-## 📦 Installation
+Clone the repository:
 
-Clone the repo and install dependencies:
 ```bash
 git clone git@github.com:Appelboom52/todo-app.git
-cd todo-app
-npm install
